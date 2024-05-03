@@ -12,7 +12,7 @@ public class PrintAsterisk_2 {
 
 //		구구단-> 2중 for (행과 열 출력)
 //		* 갯수를 행과 열 출력 -> 2중 for 사용
-//		for (int i = 0; i < n; i++) {
+//		for (int i = 1; i < n; i++) {
 //		감소시키는 로직을 위해서 역으로 진행
 		for (int i = n; i > 0; i--) {
 //			하나씩 줄이기 위해서 i값 사용
