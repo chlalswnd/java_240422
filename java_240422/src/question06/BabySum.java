@@ -3,7 +3,6 @@ package question06;
 public class BabySum {
 	public static void main(String[] args) {
 		int baby[][]= new int [120][5];
-		int totalBaby = 0;
 		int sum = 0;
 		
 //		baby.length : 120(month 120 반복)
